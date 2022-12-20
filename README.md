@@ -1,9 +1,7 @@
 <h1 align='center'> Welcome!</h1>
 
 <h2> About me: </h2>
-<p>My name is Taylor! I am a full-stack software engineer currently located in Winter Haven, Florida.  I have two degrees in Chemistry and Biology from Florida State University that I earned with the intent of pursuing a career in medicine.  However, after some exposure to the medical field, I realized that wasn't where my heart was at, and wound up in the beverage manufacturing industry doing product testing and quality control.  I worked in that field for five years, and on the anniversary of my fifth year, I discovered where my passion truly lay.</p>
-
-<p>The key aspect I was missing was creation.  I wanted to <i>make</i> something.  That is my passion: building dynamic, responsive applications with a focus on the user experience, and making sure everything runs smoothly with intuitive designs and architecture.  To that end, I enrolled in the Hack Reactor remote advanced software engineering training program to develop my skills with the goal of developing applications to enrich and enhance the lives of the people that use them.</p>
+<p>My name is Taylor! I am a full-stack software engineer currently located in Winter Haven, Florida.  I have two degrees in Chemistry and Biology from Florida State University that I earned with the intent of pursuing a career in medicine.  However, after some exposure to the medical field, I realized that wasn't where my heart was at; I wanted to <i>make</i> something, functional applications that could be used by people to enhance themselves or their businesses.  I enrolled in the Hack Reactor advanced software engineering remote training program to learn the fundamentals of web development.  I have experience engaging with other software engineers using agile methodologies, designing and implementing systems architecture for MERN and PERN stacks, integrating microservices for client-facing front-end applications, developing for mobile using React Native, and deploying applications using AWS and related cloud platforms.</p>    
 
 <h2> Technical skills: </h2> 
 <details>
