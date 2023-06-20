@@ -26,7 +26,7 @@
     </details>
     
  <details>
-  <summary><a href='https://github.com/Taylor-Sheets3/PuppyMates'>Puppymates</a> (January 2023 - April 2023) </summary>
+  <summary><a href='https://github.com/Taylor-Sheets3/PuppyMates'>Puppymates</a> (November 2022 - December 2022) </summary>
   <p></p>
   <ul>
     <li>Developed a mobile application for iOS using React Native and React Native Elements that allows dog owners to communicate and coordinate play dates through match-based swiping, geolocation, and chat features</li>
@@ -41,7 +41,7 @@
  </details>
 
 <details>
-  <summary><a href='https://github.com/Taylor-Sheets3/Cinnamon'>Cinnamon</a> (January 2023 - April 2023) </summary>
+  <summary><a href='https://github.com/Taylor-Sheets3/Cinnamon'>Cinnamon</a> (October 2022 - November 2022) </summary>
   <p></p>
   <ul>
   <li>Developed an eCommerce web application using React.js with CSS and a monolithic legacy API, delivering a robust and user-friendly experience </li>
